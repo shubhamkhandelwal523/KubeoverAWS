@@ -12,4 +12,5 @@ Note:
 1) GitHub
 2) DockerHub
 3) Ansible Galaxy
-TO get the video of task :- 
+
+TO get the video of task :- https://www.linkedin.com/posts/shubham-khandelwal-a04613144_vimaldaga-righteducation-educationredefine-activity-6781409479993942016-k_E3
